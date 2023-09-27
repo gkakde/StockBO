@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 import time
 import schedule 
 import streamlit as st
+import mysql.connector
 
 conn = st.experimental_connection('mysql', type='sql',ttl=0)
 
