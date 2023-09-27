@@ -1,0 +1,7 @@
+pandas
+streamlit
+mysql.connector
+sqlalchemy
+pymysql
+requests
+beautifulsoup4
